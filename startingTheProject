@@ -1,0 +1,6 @@
+Tic-Tac-Toe Project (https://reactjs.org/tutorial/tutorial.html#overview) steps
+
+copy olivers starter-zip
+do npm i (installs all node-modules listed in package.json)
+npm start (I can see sth) 
+start working
